@@ -14,7 +14,7 @@ import java.util.UUID;
 @NoArgsConstructor
 public class HelloWorldMessage implements Serializable {
 
-    static private final long serialVersionUID = 1L;
+    static private final long serialVersionUID = -8344130639004001286L;
 
     private UUID id;
     private String message;
